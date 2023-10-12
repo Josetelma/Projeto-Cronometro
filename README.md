@@ -7,4 +7,4 @@
   <li>JavaScript: Implementamos JavaScript para adicionar interatividade e funcionalidades dinâmicas.</li>
 </lo>
 <br>
-<img src=""/>
+<img src="https://github.com/Josetelma/Projeto-Cronometro/blob/main/assets/img.PNG?raw=true"/>
